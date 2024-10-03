@@ -1,3 +1,3 @@
-# Electronics Playgrounds
+# Electronic Playgrounds
 
 A place to learn about electronics.
