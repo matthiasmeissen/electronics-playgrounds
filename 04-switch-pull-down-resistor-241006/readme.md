@@ -1,4 +1,3 @@
-
 # Switch Pull Down Resistor
 
 Connecting a push button requires to use a pull down resistor.
