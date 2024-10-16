@@ -1,6 +1,6 @@
 # State Change Detection
 
-Here are some details about the project.
+Using a button an detect changes.
 
 ## Detecting State Changes
 The approach is simple. You have two variables: `currentRead` and `lastRead`. At the beginning of each loop you set `cR` to some Input Signal and at the end you set `lR` to `cR`. 
