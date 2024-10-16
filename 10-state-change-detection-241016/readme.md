@@ -1,6 +1,6 @@
 # State Change Detection
 
-Using a button an detect changes.
+Using a button and state change detection to toggle between led states.
 
 ## Detecting State Changes
 The approach is simple. You have two variables: `currentRead` and `lastRead`. At the beginning of each loop you set `cR` to some Input Signal and at the end you set `lR` to `cR`. 
