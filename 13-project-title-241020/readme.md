@@ -9,6 +9,7 @@ But when you add another resistor to the circuit, the voltage drops some amount 
 
 You can calculate the voltage between the two resistors like this:
 
+
 ```
 Vout = Vin x (R2 / R1 + R2)
 ```
