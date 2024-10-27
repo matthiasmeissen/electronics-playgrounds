@@ -4,7 +4,7 @@ A resistor is a component that restricts the flow of electric current in a circu
 
 ## How a Resistor Works
 A resistor turns electrical energy into heat as it restricts the flow of current. 
-It achieves this by providing a narrow path for electrons, usually made from ceramic or a thin layer of metal. 
+It achieves this by providing a narrow path for electrons, usually made from ceramic surrounded by a thin layer of metal. 
 The heat dissipation capacity of a resistor is determined by its size—larger resistors can handle more heat, meaning they can manage more power (measured in watts).
 
 ## Types of Resistors
