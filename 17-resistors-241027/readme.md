@@ -32,7 +32,7 @@ For example, two 50-ohm resistors in series provide a total resistance of 100 oh
 Resistors in parallel require a more complex calculation. 
 The formula for total resistance (Rt) is: 
 
-`Rt = 1 / ((1/R1) + (1/R2)) + ... + (1/Rn)`
+`Rt = 1 / ((1/R1) + (1/R2)) + ... + (1/Rn))`
 
 For example, two resistors—one 200 ohms and one 50 ohms—would result in:
 
