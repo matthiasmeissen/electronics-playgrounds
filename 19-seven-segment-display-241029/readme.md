@@ -2,7 +2,7 @@
 
 A seven segment display is an electronic component that consists of seven LEDs and can be used to display numbers and chracters.
 
-## 7 Segment Displays
+## What 7 Segment Displays
 A 7-segment display consists of seven LEDs labeled from A to G. 
 The labeling starts at the top (segment A), goes clockwise around the display, with segment G located in the center.
 
