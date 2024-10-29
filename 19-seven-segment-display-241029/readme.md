@@ -2,7 +2,7 @@
 
 A seven segment display is an electronic component that consists of seven LEDs and can be used to display numbers and chracters.
 
-## What 7 Segment Displays
+## What are 7 Segment Displays
 A 7-segment display consists of seven LEDs labeled from A to G. 
 The labeling starts at the top (segment A), goes clockwise around the display, with segment G located in the center.
 
@@ -46,3 +46,8 @@ Recommendation: Use a resistor of at least 160Ω for each segment to ensure prop
 - [How to use 7 Segment Display with arduino](https://www.youtube.com/watch?v=_JbHhfZvfGU)
 - [Great Scott - 7 Segment Display](https://www.youtube.com/watch?v=a6D6H6SLa_c)
 - [The Learning Circuit - How to Drive a 7 Segment Display](https://www.youtube.com/watch?v=XCJqoae4hgY)
+
+## Things I have learned
+- A seven segment display just uses 7 LEDs
+- Each LED can be adressed with its own pin and they all share a common one (either anode or cathode)
+- You can use such a display to write same basic things 
