@@ -37,7 +37,6 @@ Larger capacitors (e.g., electrolytic) often have rolled-up plates and dielectri
 ```
 
 ## Ressources
-
 - [Circuit Playground - C is for Capacitor](https://www.youtube.com/watch?v=sy_G1oYRQmM)
 - [MAKE present: The Capacitor](https://www.youtube.com/watch?v=ZYH9dGl4gUE)
 - [Great Scott - Electronic Basics: Capacitors](https://www.youtube.com/watch?v=otQGdPLyF3w)
