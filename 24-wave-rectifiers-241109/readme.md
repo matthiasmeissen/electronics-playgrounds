@@ -35,7 +35,7 @@ In the bridge rectifier setup, four diodes are arranged in a diamond shape to re
 ![Full Wave Bridge Rectifier](full-wave-bridge-rectifier.png)
 
 How it works:  
-During the positive half-cycle of the AC input, Diodes 1 and 3 conduct, allowing current to flow through the load in one direction.  
+During the positive half-cycle of the AC input, Diodes 1 and 3  conduct, allowing current to flow through the load in one direction.  
 During the negative half-cycle, Diodes 2 and 4 conduct, also allowing current to flow in the same direction through the load.
 
 The output is a pulsating DC signal with fewer gaps compared to a half-wave rectifier, resulting in a higher average output voltage. To achieve a smoother DC output, a capacitor is often added to the circuit. This capacitor charges during the peaks of the waveform and discharges during the valleys, filling the gaps and reducing the ripple.
