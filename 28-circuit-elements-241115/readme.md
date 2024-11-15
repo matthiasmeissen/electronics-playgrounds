@@ -42,4 +42,4 @@ The Resistance will always be lower than the value of the lowest Resistor.
 
 ## Things I have learned
 - A branch is a components with two terminals
-- Nodes can be quite large and include many components.
+- Nodes can be quite large and include many components
