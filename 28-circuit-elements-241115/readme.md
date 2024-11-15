@@ -41,5 +41,5 @@ The Resistance will always be lower than the value of the lowest Resistor.
 ![Graphic showing the elements of a circuit](28-Circuit-Elements-241115.jpg)
 
 ## Things I have learned
-- A branch is a components with two terminals
+- A branch is a component with two terminals
 - Nodes can be quite large and include many components
