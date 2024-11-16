@@ -5,6 +5,7 @@ There are Voltage and Current Sources, which can both be independet or dependent
 Power sources are active elements, meaning they can generate energy and absorb it. 
 Passive elements can either absorb energy (resistors) or store/release energy (capacitors and inductors).
 
+[View Tutorial](https://www.circuitbread.com/tutorials/voltage-and-current-sources-independent-and-dependent-sources)
 
 ## Voltage Sources
 An ideal voltage source will produce or absorb any current to maintain the rated voltage.
