@@ -13,7 +13,6 @@ A transistor can be used to create a NOT Gate by having a simple switch circuit,
 [View Simulation](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKACUKwVPuEuRs2QlBEAWKsKpToCFgGceiwvkVSQAMwCGAGzl0WAJxDK8ijJFGrkcFgBcQGPJb7c82XvyoQYhTM0J4GChglJDu2FDQhI6E-mQhhLGiEGBwIAAmdFoArtq2hiBu3NhOhe4gosSSArjsZcWlRTXVVOLGItKyAOb1FCimTQjE3FIsYL4OFmalLiDcmTl5DNp06eAdkZCs467llcJVrVVzGVmaubbLq+tqMFssPYcVx09DI1AsAPYOxpatkKRqHcUEgqNxyNgvoVfmIAcQ5jJNiD1q4BCwgA)
 
 ## Amplifier
-
 A transistor can be used as an amplifier when you have four resistors that create voltage dividers. 
 The first one sets the voltage at the Base of the Transistor. The other one includes the Collector 
 Emitter circuit of the transistor, which then acts as a variable potentiometer to amplify the incoming singal.
@@ -21,7 +20,6 @@ Emitter circuit of the transistor, which then acts as a variable potentiometer t
 [View Simulation](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcBOaAOAbAdgCwCYsBmHMBMHZNQkBSGmuhAUwFowwAoAJRCzzsKQcvfiDw46kkBLFTJ0BBwBOIgUNXS4UcPEgcA7hsHCMCDCGNRlIU+cu3pYc3Xa6OAFxtnH5vnRLO4CAsqJAIeGBYkORoWJQYeNQwCMiEWBhOYITItKbROnQAJkwAZgCGAK4ANu7WftKEeBoIOMIu8NYOAV7mLW0FcBwAxj0+NBj+TtJQsLoUyAuLS0vmYNATkMgUeAiYcBg4CEmzEHoj9RJ0aFOX0zC6QstPK2KwaEetkHHiGKY4WDM4KcDKM+s1WlYAObg4T1BDpbR6HhmSa9MBNbouEBoeRIOQKDgAeWxNy0mGEt0k1mu5luNJoEPaDxBcIh9LBegA9uAIAdtBIFjMEnjZpBspBhdomuwLBxueibP0BWhZDMIOqOEA)
 
 ## Astable Multivibrator
-
 A transistor can be used to create an osciallating signal by using two pairs of two resistors, a capacitor, and LED and a resistor.
 The Base of each transistor is connected to one side of the opposite Capacitor terminal.
 Depending on which Capacitor and Resistor Valuse are used it osciallates at a specific frequency.
