@@ -42,5 +42,6 @@ In this window, the range is set to the minimum and maximum of the values. To ch
 
 
 ## Things I have learned
+
 - The software LTspice is very complicated but seems very powerfull
 - It takes a lot of time to learn electronics in detail
