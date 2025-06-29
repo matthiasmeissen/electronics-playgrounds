@@ -1,7 +1,7 @@
-
 # Time of Flight Sensor
 
 Measuring distance by shooting laser beams and detecting how long it takes for them to bounce back.
+
 
 ## VL53L1X or VL53L0/1XV2
 
@@ -28,3 +28,5 @@ The VL53L1X has three modes. This is a trade-off.
 This is how much time you allow the sensor for a single measurement (in microseconds).
 - Longer budget (e.g., 200000 for 200ms) -> Higher accuracy, better range, but slower readings.
 - Shorter budget (e.g., 20000 for 20ms) -> Faster readings, but less accuracy and reduced range.
+
+The signal has to be smoothed to be useful.
