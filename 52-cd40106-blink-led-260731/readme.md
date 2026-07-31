@@ -14,7 +14,7 @@ The course is very minimal and has little explanation so my motivation is to go 
 
 The first chapter is about building a small oscillator that blinks and LED.
 
-It is using the `CH40106` which is a hex schmitt trigger inverter.
+It is using the `CD40106` which is a hex schmitt trigger inverter.
 
 A schmitt trigger inverter is a type of NOT gate (flips input) that has different thresholds for high to low and low to high (hysteresis).
 
